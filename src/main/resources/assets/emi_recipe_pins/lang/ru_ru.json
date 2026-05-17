@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.emi_recipe_pins": "Добавляет закрепленные карточки рецептов в стиле REI в избранное EMI.",
+  "config.emi.group.recipe_pins": "Закрепы рецептов",
+  "config.emi.recipe_pins.max_visible_recipes": "Видимые закрепы рецептов",
+  "config.emi.tooltip.recipe_pins.max_visible_recipes": "Сколько закрепленных рецептов одновременно раскрывать как полные карточки. Остальные рецепты остаются выше обычных закрепов как компактные иконки."
+}

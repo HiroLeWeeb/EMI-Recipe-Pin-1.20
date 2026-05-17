@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.emi_recipe_pins": "Adds REI-style pinned recipe cards to EMI favorites.",
+  "config.emi.group.recipe_pins": "Recipe Pins",
+  "config.emi.recipe_pins.max_visible_recipes": "Visible recipe pins",
+  "config.emi.tooltip.recipe_pins.max_visible_recipes": "How many pinned recipes are expanded as full recipe cards at the same time. Extra recipe pins stay above normal favorites as compact icons."
+}
