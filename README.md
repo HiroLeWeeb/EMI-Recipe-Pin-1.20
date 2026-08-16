@@ -1,6 +1,7 @@
 # EMI Recipe Pins
 
 *Clanker-assisted backport to Forge 1.20.1.*
+
 Client addon for EMI that renders recipe favorites as REI-style pinned recipe cards.
 
 
@@ -13,7 +14,9 @@ Client addon for EMI that renders recipe favorites as REI-style pinned recipe ca
 - Recipes can be ~~dragged from EMI's recipe screen into the Favorites panel~~ pinned by using your EMI fav button (default: `Q`).
 - The visible recipe-card limit is configurable from EMI's config ~~screen~~ file (located in `minecraft/config/emi_recipe_pins.properties`).
 
-  *The mod is configured to display a maximum of `3` recipes by default, technically supports up to 50 (?).*
+*The mod is configured to display a maximum of `3` recipes by default, technically supports up to 50 (?).*
+*Supports any EMI recipe (including mods).*
+*Recipes saved beyond this cap will render as a compact version (default EMI behaviour), until space has been freed.*
 
 ## Build
 
