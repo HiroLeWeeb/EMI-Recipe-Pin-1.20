@@ -2,12 +2,11 @@
   "required": true,
   "minVersion": "0.8",
   "package": "dev.kdevy.emirecipepins.mixin",
-  "compatibilityLevel": "JAVA_21",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "emi_recipe_pins.refmap.json",
   "client": [
-    "ConfigScreenMixin",
     "EmiFavoritesMixin",
     "EmiScreenManagerMixin",
-    "RecipeScreenMixin",
     "ScreenSpaceMixin"
   ],
   "injectors": {
