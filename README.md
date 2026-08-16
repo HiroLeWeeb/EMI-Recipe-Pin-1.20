@@ -12,6 +12,7 @@ Client addon for EMI that renders recipe favorites as REI-style pinned recipe ca
 - Pinned recipes can be reordered by dragging them inside the Favorites panel.
 - Recipes can be ~~dragged from EMI's recipe screen into the Favorites panel~~ pinned by using your EMI fav button (default: `Q`).
 - The visible recipe-card limit is configurable from EMI's config ~~screen~~ file (located in `minecraft/config/emi_recipe_pins.properties`).
+
   *The mod is configured to display a maximum of `3` recipes by default, technically supports up to 50 (?).*
 
 ## Build
